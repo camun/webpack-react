@@ -1,1 +1,1 @@
-# curso-webpack-react
+# webpack-react
